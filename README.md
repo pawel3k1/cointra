@@ -1,0 +1,2 @@
+# cointra
+Centralized payment protocol.
